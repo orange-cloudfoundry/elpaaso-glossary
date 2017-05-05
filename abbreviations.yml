@@ -1,5 +1,23 @@
 abbreviations:
 
+  CF:
+    longform: cloudfoundry
+    description: |
+      Cloud Foundry is the industry standard open source cloud application platform for developing and deploying enterprise cloud applications 
+    cross_references: Paas
+
+  Paas:
+    longform: Plateform as a Service
+    description: |
+      Platform as a service (PaaS) or application platform as a service (aPaaS) is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+    cross_references:
+  
+  Bosh:
+    longform:
+    description: |
+      default operations and deployment layer for the Cloud Foundry platform
+    cross_references:
+
   1102:
     longform:
     description: |
