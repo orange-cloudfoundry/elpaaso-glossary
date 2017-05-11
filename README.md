@@ -1,9 +1,6 @@
-# The Procurement Glossary
+# The ElPaaso Paas Glossary
 
-The procurement glossary is a set of definitions for common abbreviations and jargon found in the procurement lifecycle.
-Definitions may not be expansive but should give users enough context to conduct further research and discovery.
-
-Although it typically focuses on procurement terms, some technical material may be included.
+A test for glossary served by elbot, to prototype with chat bot "define X" queries.
 
 ## Other Uses
 
